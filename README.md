@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thisunn
+- 👋 Hi, I’m @deshii
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning in SLIIT Campus
 - 💞️ I’m looking to collaborate on software developing companies
